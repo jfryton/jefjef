@@ -115,11 +115,11 @@ NODE_ENV=production PORT=5106 node server.mjs
 
 ### Ecosystem
 
-- 🇫🇮 [m.lemmy.world](https://m.lemmy.world) - Voyager hosted by the mastodon.world team. [Contact/privacy](https://mastodon.world/about)
-- 🇸🇬 [v.opnxng.com](https://v.opnxng.com) - Voyager hosted by Opnxng in Singapore. [Contact/privacy](https://about.opnxng.com)
-- 🇲🇽 [voyager.nohost.network](https://voyager.nohost.network) - Voyager hosted by Nohost in Mexico. [Contact/privacy](https://nohost.network)
-- 🇺🇸 [vger.thesanewriter.com](https://vger.thesanewriter.com) - Voyager hosted by the lemmy.thesanewriter.com team. [Contact/privacy](https://lemmy.thesanewriter.com/legal)
-- 🌎 [m.lemdro.id](https://m.lemdro.id) - Voyager hosted by lemdro.id. [Contact/privacy](https://lemdro.id/legal), [Instance GitHub](https://github.com/lemdro-id)
+- 🇫🇮 [m.lemmy.world](https://m.lemmy.world) - Voyager hosted by the mastodon.world team ([Contact/privacy](https://mastodon.world/about)).
+- 🇸🇬 [v.opnxng.com](https://v.opnxng.com) - Voyager hosted by Opnxng in Singapore ([Contact/privacy](https://about.opnxng.com)).
+- 🇲🇽 [voyager.nohost.network](https://voyager.nohost.network) - Voyager hosted by Nohost in Mexico ([Contact/privacy](https://nohost.network)).
+- 🇺🇸 [vger.thesanewriter.com](https://vger.thesanewriter.com) - Voyager hosted by the lemmy.thesanewriter.com team ([Contact/privacy](https://lemmy.thesanewriter.com/legal)).
+- 🌎 [m.lemdro.id](https://m.lemdro.id) - Voyager hosted by lemdro.id ([Contact/privacy](https://lemdro.id/legal), [Instance GitHub](https://github.com/lemdro-id)).
 
 > **Note**: Community deployments are **NOT** maintained by the Voyager team. They may not be synced with Voyager's source code. Please do your own research about the host servers before using them.
 
